@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/riya0999/Spotify-Data-Analysis
+git clone https://github.com/your-username/Spotify-Data-Analysis
 cd spotify-tracks-analysis
 
 # Run the script
@@ -48,4 +48,4 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/maharshipandy
 
 ## 📬 Contact
 
-For any questions, feel free to reach out.
+For any questions, feel free to reach out at riya2004chauhan@gmail.com
