@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/spotify-tracks-analysis.git
+git clone https://github.com/riya0999/Spotify-Data-Analysis
 cd spotify-tracks-analysis
 
 # Run the script
